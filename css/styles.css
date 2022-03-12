@@ -60,10 +60,10 @@ a, a:hover {
 }
 
 .dsmovie-card {
-    display: fle;
     padding: 0 0 20px 0;
-    width: 360px;
+    width: 260px;
     border-radius: 8px;
+    margin-right: 50px;
     background-color: var(--white);
 }
 
@@ -133,3 +133,9 @@ a, a:hover {
 .dsmovie-card-infos a:hover{
     opacity: .8;
 }
+
+/* .cards-row{
+    display: flex !important;
+    flex-direction: row;
+
+} */
